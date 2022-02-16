@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(){		
+	//VAMOS DEFINIR O VALOR DE PI 3.14159;
+	
+	double A, a ,area,base, altura, raio_circulo,triangulo, soma, Pi;
+	printf("informe os valores da soma: ");
+	scanf("%lf", &base);
+	scanf("%lf", &altura);
+	scanf("%lf", &area);
+	A = base / altura * soma;  
+	printf("Area = %7lf\n",area);
+	
+	return(0);
+}
