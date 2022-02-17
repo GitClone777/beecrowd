@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+it main () {
+
+          int valorA, valorB, x
+
+          printf("valorA:"); scanf("%d", &valorA);
+
+          printf("valorB:"); scanf("%d", &valorB);
+
+          
+
+         X = valorA + ValorB;
+
+         printf("x = %d\n", x);
+
+]        return 0
+
+} 
